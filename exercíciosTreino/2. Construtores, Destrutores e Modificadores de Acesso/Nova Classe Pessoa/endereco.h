@@ -1,5 +1,5 @@
-#ifndef PESSOA_H
-#define PESSOA_H
+#ifndef ENDERECO_H
+#define ENDERECO_H
 #include <stdio.h>
 #include <string>
 

@@ -9,5 +9,5 @@ data::data(int dia, int mes, int ano)
 }
 void data::print()
 {
-    std::cout << "Data("<< this->dia<<", "<< this->mes<<", "<<this->anos<<")"<<std::endl;
+    std::cout << "Data("<< this->dia<<", "<< this->mes<<", "<<this->anos<<")";
 }
